@@ -1,0 +1,19 @@
+#img{
+    display: flex;
+    justify-content: center;
+    background-color: transparent;
+}
+
+.image{
+  color: rgba(187, 33, 161, 0.637);
+  background-color: white;
+}
+
+h1{
+  color: purple;
+}
+
+#col, #key{
+  color: purple;
+}
+
