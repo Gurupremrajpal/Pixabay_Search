@@ -1,6 +1,6 @@
 # Pixabay_Search
 <br>
-Gif:- <br>
+Gif:-
 <a href = "https://drive.google.com/file/d/13GXCHTblA29KCs4Fq2one6KdzaE8qbrN/view?usp=sharing"> Google_Drive </a> 
 <br>
 <a href="https://gurupremrajpal.github.io/Pixabay_Search/Pixabay_Search/index.html"> Website </a>
