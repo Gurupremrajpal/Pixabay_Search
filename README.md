@@ -1,5 +1,9 @@
 # Pixabay_Search
 <br>
+1) Five different random images are displayed when searching for a keyword.
+2) Images are displayed based on layout selected (vertical, horizontal)
+3) Number of likes above each image
+4) A random background image is displayed when loading the page. <br>
 Gif:-
 <a href = "https://drive.google.com/file/d/13GXCHTblA29KCs4Fq2one6KdzaE8qbrN/view?usp=sharing"> Google_Drive </a> 
 <br>
